@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Salaudeen;Olawale;;;
-FN: Olawale Salaudeen
+N:Ibrahim;Nafisa;;;
+FN: Nafisa Ibrahim
 ORG:University of Illinois at Urbana-Champaign;
 TITLE:Ph.D. Candidate
-EMAIL;type=INTERNET;type=HOME;type=pref:olasalaudeen96@gmail.com
-EMAIL;type=INTERNET;type=WORK;type=pref:oes2@illinois.edu
-TEL;type=HOME;type=VOICE:+14692866388
-item1.URL;type=pref:https://olawalesalaudeen.com
+EMAIL;type=INTERNET;type=HOME;type=pref:nafisaibrahim96@gmail.com
+EMAIL;type=INTERNET;type=WORK;type=pref:nai2@illinois.edu
+TEL;type=HOME;type=VOICE:+16126851170
+item1.URL;type=pref:https://nafisaibrahim.com
 item1.X-ABLabel:_$!<HomePage>!$_
-PHOTO;TYPE=JPEG;VALUE=URI:https://olawalesalaudeen.com/images/Salaudeen_Olawale.jpg
+PHOTO;TYPE=JPEG;VALUE=URI:https://nafisaibrahim.com/images/Ibrahim_Nafisa.jpg
 END:VCARD
